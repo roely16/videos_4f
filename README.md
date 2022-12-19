@@ -1,4 +1,6 @@
-# videos_4f
+# Proyección de Videos 4F
+
+Aplicación utilizada durante el simulacro 4F del año 2020.  Mediante la aplicación es posible crear un grid de videos que encaja en las pantallas del C4. 
 
 ## Project setup
 ```
